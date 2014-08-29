@@ -1,0 +1,11 @@
+Test Case #
+
+Name:
+
+Precondition:
+
+Steps to execute:
+
+{Note: remember about optimal number of steps - around 5-7}
+
+Expected result:
