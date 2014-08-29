@@ -1,4 +1,4 @@
 abc
 ===
 
-nothing interesting :) just for fun
+test specification
