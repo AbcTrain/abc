@@ -6,6 +6,6 @@ Precondition:
 
 Steps to execute:
 
-{Note: remember about optimal number of steps - around 5-7}
+{Note: remember about optimal number of steps - it could be around 5-7}
 
 Expected result:
