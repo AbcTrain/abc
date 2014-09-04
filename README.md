@@ -1,8 +1,3 @@
-abc
+abc project
 ===
-
-<<<<<<< HEAD
-test specification
-=======
-nothing interesting :) just for fun
->>>>>>> origin/develop
+nothing special :) just for fun
